@@ -8,7 +8,7 @@
 - **Author(s)**:
   - Marius Alaba (Group Leader)
   - Mark Anthony Delloza
-  - _[Member 3]_
+  - Mark Angelo Vicedo
 
 ---
 

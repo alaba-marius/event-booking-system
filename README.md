@@ -648,27 +648,12 @@ None required. Users access the site through their own devices (phone, tablet, l
 - Interactive seat map with a highlighted VIP section.
 - Add-ons at checkout (parking pass, merch, photo package).
 
-**Project timeline:**
-
-| Phase | Duration |
-|---|---|
-| Documentation (TSD, ERD, Figma prototype, Trello, repository) | About 2 weeks |
-| Back-end development | About 2 weeks |
-| Front-end development | About 2 weeks or more |
-| Review and portfolio update | End of project |
-
 **Project links:**
 
 - GitHub repository: _[Insert link]_ (`event-booking-system`)
 - Trello board: _[Insert link]_
 - Figma prototype: _[Insert link]_
 - ERD (draw.io): _[Insert link]_
-
-**Open items for the team:**
-
-- Confirm the final technology stack.
-- Confirm the VIP tier perks and pricing examples.
-- Fill in the member names, Figma, ERD, and Trello links.
 
 ### Revision History
 

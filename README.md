@@ -7,10 +7,8 @@
 - **Date**: November 9, 2026
 - **Author(s)**:
   - Marius Alaba (Group Leader)
-  - _[Member 2]_
+  - Mark Anthony Delloza
   - _[Member 3]_
-  - _[Member 4 (optional)]_
-  - _[Member 5 (optional)]_
 
 ---
 
